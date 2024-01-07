@@ -2,7 +2,7 @@
 
 三文鱼加入柠檬汁，风味更好。
 
-<img src="./1.jpg" alt="1" style="zoom:50%;" />
+<img src="./1.jpg" alt="1" width="375" />
 
 ## 原料
 
