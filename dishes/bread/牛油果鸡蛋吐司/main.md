@@ -2,7 +2,7 @@
 
 我爱牛油果，我爱鸡蛋。面包可以加万物，随便加。
 
-<img src="/Users/zhangyue/Desktop/Cook_Notebook/dishes/bread/牛油果鸡蛋吐司/1.jpg" width="375" />
+<img src="./1.jpg" width="375" />
 
 ## 原料
 
