@@ -16,6 +16,7 @@
 ### 素材
 
 - [番茄炒鸡蛋](./dishes/vegetable_dishes/西红柿炒鸡蛋.md)
+- [醋炒胡萝卜](./dishes/vegetable_dishes/醋炒胡萝卜.md)
 
 ### 肉菜
 
@@ -26,4 +27,8 @@
 - [牛油果鸡蛋吐司](./dishes/bread/牛油果鸡蛋吐司/main.md)
 
 
+
+## 致谢
+
+- https://github.com/Anduin2017/HowToCook
 
