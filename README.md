@@ -13,7 +13,7 @@
 
 - [番茄蛋花汤](./dishes/soup/番茄蛋花汤/main.md)
 
-### 素材
+### 素菜
 
 - [番茄炒鸡蛋](./dishes/vegetable_dishes/西红柿炒鸡蛋.md)
 - [醋炒胡萝卜](./dishes/vegetable_dishes/醋炒胡萝卜.md)
@@ -21,6 +21,8 @@
 ### 肉菜
 
 - [柠香烤三文鱼](./dishes/meat_dishes/柠香烤三文鱼/main.md)
+- [三椒炒牛肉](./dishes/meat_dishes/三椒炒牛肉/main.md)
+- [麻婆豆腐](./dishes/meat_dishes/麻婆豆腐/main.md)
 
 ### 面包
 
